@@ -8,6 +8,7 @@ import Turbolinks from "turbolinks"
 import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 
+require("packs/jquery-1.9.1.min.js");
 require("jquery");
 require("packs/nicepage.js")
 import "../stylesheets/application.scss";
